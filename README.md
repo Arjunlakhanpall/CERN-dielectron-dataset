@@ -108,6 +108,10 @@ Compared Random Forest, AdaBoost, and XGBoost using cross-validation.
 | XGBoost Accuracy            | ~98.8%                              |
 | Most Important Features     | pt1, pt2, eta1, eta2                |
 
+![image](https://github.com/user-attachments/assets/b437e78d-488c-496a-bdc2-148a1e0f88a7)
+---
+![image](https://github.com/user-attachments/assets/0c947bc3-73c7-4503-bca4-3703668c408b)
+
 ## How to Run
 1. Download `dielectron.csv` from [CERN Open Data](http://opendata.cern.ch) or [Kaggle](https://www.kaggle.com).
 2. Open the notebook in Google Colab or Jupyter.
